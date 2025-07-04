@@ -1,4 +1,6 @@
-# axreldable_python_lib
+# axreldable
+
+axreldable's python utils
 
 ## Installation
 
@@ -7,6 +9,7 @@ pip install git+https://github.com/axreldable/axreldable_python_lib.git
 ```
 
 ## Usage
+
 ```python
 from axreldable.printing import print_list
 
